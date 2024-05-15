@@ -1,0 +1,1905 @@
+{
+  "Files": [
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ReviewSocial.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ReviewSocial.bundle.scp.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\css\\profile.css",
+      "PackagePath": "staticwebassets\\css\\profile.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\css\\site-admin.css",
+      "PackagePath": "staticwebassets\\css\\site-admin.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\images\\home\\tải xuống.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\tải xuống.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\1ee192c9-fee4-40f6-9353-91d27b4eebc7_1.jpg",
+      "PackagePath": "staticwebassets\\img\\1ee192c9-fee4-40f6-9353-91d27b4eebc7_1.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\22.png",
+      "PackagePath": "staticwebassets\\img\\22.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638255923777146967.png",
+      "PackagePath": "staticwebassets\\img\\638255923777146967.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638255927921926713.png",
+      "PackagePath": "staticwebassets\\img\\638255927921926713.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638255929753066204.png",
+      "PackagePath": "staticwebassets\\img\\638255929753066204.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638255930752106104.png",
+      "PackagePath": "staticwebassets\\img\\638255930752106104.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638255931325385314.png",
+      "PackagePath": "staticwebassets\\img\\638255931325385314.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638255931745295072.png",
+      "PackagePath": "staticwebassets\\img\\638255931745295072.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638255932617991579.png",
+      "PackagePath": "staticwebassets\\img\\638255932617991579.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638255935310503312.png",
+      "PackagePath": "staticwebassets\\img\\638255935310503312.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638258519288524243.jpg",
+      "PackagePath": "staticwebassets\\img\\638258519288524243.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638258519648950540.png",
+      "PackagePath": "staticwebassets\\img\\638258519648950540.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638477422784905315.jpg",
+      "PackagePath": "staticwebassets\\img\\638477422784905315.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638481594701701843.jpg",
+      "PackagePath": "staticwebassets\\img\\638481594701701843.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638481607321878567.jpg",
+      "PackagePath": "staticwebassets\\img\\638481607321878567.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638482500818367187.jpg",
+      "PackagePath": "staticwebassets\\img\\638482500818367187.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638482500819337891.jpg",
+      "PackagePath": "staticwebassets\\img\\638482500819337891.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638482538258932694.jpg",
+      "PackagePath": "staticwebassets\\img\\638482538258932694.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638482583525228154.jpg",
+      "PackagePath": "staticwebassets\\img\\638482583525228154.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638482583667093399.jpg",
+      "PackagePath": "staticwebassets\\img\\638482583667093399.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638482602810089652.jpg",
+      "PackagePath": "staticwebassets\\img\\638482602810089652.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638483317373161512.jpg",
+      "PackagePath": "staticwebassets\\img\\638483317373161512.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638483349845593909.jpg",
+      "PackagePath": "staticwebassets\\img\\638483349845593909.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638484409093294240.jpg",
+      "PackagePath": "staticwebassets\\img\\638484409093294240.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638484409606932448.jpg",
+      "PackagePath": "staticwebassets\\img\\638484409606932448.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638484458367076404.jpg",
+      "PackagePath": "staticwebassets\\img\\638484458367076404.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638484458628179109.jpg",
+      "PackagePath": "staticwebassets\\img\\638484458628179109.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638486613626499185.jpg",
+      "PackagePath": "staticwebassets\\img\\638486613626499185.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638486841159540808.jpg",
+      "PackagePath": "staticwebassets\\img\\638486841159540808.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638486843522087724.jpg",
+      "PackagePath": "staticwebassets\\img\\638486843522087724.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638486845153627522.jpg",
+      "PackagePath": "staticwebassets\\img\\638486845153627522.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638486845827112016.jpg",
+      "PackagePath": "staticwebassets\\img\\638486845827112016.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638486846236225890.jpg",
+      "PackagePath": "staticwebassets\\img\\638486846236225890.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638486846786511756.jpg",
+      "PackagePath": "staticwebassets\\img\\638486846786511756.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638489355417541544.png",
+      "PackagePath": "staticwebassets\\img\\638489355417541544.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638489356268340565.jpg",
+      "PackagePath": "staticwebassets\\img\\638489356268340565.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638489357508971223.jpg",
+      "PackagePath": "staticwebassets\\img\\638489357508971223.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\638489370548616517.jpg",
+      "PackagePath": "staticwebassets\\img\\638489370548616517.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\67e38dca-dfc4-43da-b90f-badda79ec76b_IQFT3697.JPEG",
+      "PackagePath": "staticwebassets\\img\\67e38dca-dfc4-43da-b90f-badda79ec76b_IQFT3697.JPEG"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\78659d56-98fd-471b-a48c-8fb8e47b19b4_3.jpg",
+      "PackagePath": "staticwebassets\\img\\78659d56-98fd-471b-a48c-8fb8e47b19b4_3.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\IQFT3697.JPEG",
+      "PackagePath": "staticwebassets\\img\\IQFT3697.JPEG"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\Review.png",
+      "PackagePath": "staticwebassets\\img\\Review.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\c400f0bd-b672-485d-a55a-6f683b0cc417_4.jpg",
+      "PackagePath": "staticwebassets\\img\\c400f0bd-b672-485d-a55a-6f683b0cc417_4.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\d636b8a1-c8e8-46a7-bff5-3bcc79cb151f_Screenshot_2.png",
+      "PackagePath": "staticwebassets\\img\\d636b8a1-c8e8-46a7-bff5-3bcc79cb151f_Screenshot_2.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\db275fc2-28ef-47a5-8947-7f583dff3666_z5235564962284_719e134fa25aebd6f8107f1f14bfa341.jpg",
+      "PackagePath": "staticwebassets\\img\\db275fc2-28ef-47a5-8947-7f583dff3666_z5235564962284_719e134fa25aebd6f8107f1f14bfa341.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\f481cbcc-1f08-4684-8f71-2e4eed494823_IQFT3697.JPEG",
+      "PackagePath": "staticwebassets\\img\\f481cbcc-1f08-4684-8f71-2e4eed494823_IQFT3697.JPEG"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\img\\logo.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\logot1.png",
+      "PackagePath": "staticwebassets\\img\\logot1.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\posts\\638252717429539566.jpg",
+      "PackagePath": "staticwebassets\\img\\posts\\638252717429539566.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\posts\\638253359333332859.png",
+      "PackagePath": "staticwebassets\\img\\posts\\638253359333332859.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\posts\\638253361872918932.jpg",
+      "PackagePath": "staticwebassets\\img\\posts\\638253361872918932.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\posts\\638253363252881678.jpg",
+      "PackagePath": "staticwebassets\\img\\posts\\638253363252881678.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\posts\\638254166418601030.rar",
+      "PackagePath": "staticwebassets\\img\\posts\\638254166418601030.rar"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\posts\\638254166674070246.html",
+      "PackagePath": "staticwebassets\\img\\posts\\638254166674070246.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\posts\\638254166831344331.png",
+      "PackagePath": "staticwebassets\\img\\posts\\638254166831344331.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\posts\\638254166899404505.jpg",
+      "PackagePath": "staticwebassets\\img\\posts\\638254166899404505.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\posts\\638254361500326156.jpg",
+      "PackagePath": "staticwebassets\\img\\posts\\638254361500326156.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\posts\\638258692577607708.png",
+      "PackagePath": "staticwebassets\\img\\posts\\638258692577607708.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\posts\\638258711937075361.jpg",
+      "PackagePath": "staticwebassets\\img\\posts\\638258711937075361.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\posts\\638258732091200945.jpg",
+      "PackagePath": "staticwebassets\\img\\posts\\638258732091200945.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\posts\\638477406011389029.jpg",
+      "PackagePath": "staticwebassets\\img\\posts\\638477406011389029.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\posts\\638484412573627057.jpg",
+      "PackagePath": "staticwebassets\\img\\posts\\638484412573627057.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\posts\\638484412576935018.jpg",
+      "PackagePath": "staticwebassets\\img\\posts\\638484412576935018.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\img\\posts\\638484412980990135.jpg",
+      "PackagePath": "staticwebassets\\img\\posts\\638484412980990135.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\js\\libraryCustom.js",
+      "PackagePath": "staticwebassets\\js\\libraryCustom.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\js\\site-admin.js",
+      "PackagePath": "staticwebassets\\js\\site-admin.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\CHANGES.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\CHANGES.md"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\LICENSE.md"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\README.md"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\SECURITY.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\SECURITY.md"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\bender-runner.config.json",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\bender-runner.config.json"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\build-config.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\build-config.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\config.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\af.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\af.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ar.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\az.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\az.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\bg.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\bn.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\bs.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\bs.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ca.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\cs.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\cy.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\da.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\da.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\de-ch.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\de.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\de.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\el.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\el.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\en-au.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\en-ca.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\en-gb.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\eo.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\es-mx.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\es.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\es.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\et.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\et.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\eu.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\fa.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\fi.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\fo.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\fr.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\gl.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\gu.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\he.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\he.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\hi.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\hr.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\hu.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\id.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\id.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\is.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\is.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\it.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\it.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ja.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\ka.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ka.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\km.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\km.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ko.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ku.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\lt.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\lv.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\mk.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\mn.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ms.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\nb.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\nl.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\no.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\no.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\oc.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\pl.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\pt-br.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\pt.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ro.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ru.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\si.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\si.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sk.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sl.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sq.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sr.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\sv.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\th.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\th.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\tr.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\tt.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\ug.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\uk.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\vi.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\lang\\zh.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\dialog\\styles\\dialog.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\dialog\\styles\\dialog.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\image\\dialogs\\image.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\image\\dialogs\\image.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\image\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\image\\images\\noimage.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\magicline\\images\\icon.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\pastefromword\\filter\\default.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\pastefromword\\filter\\default.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\pastetools\\filter\\common.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\pastetools\\filter\\common.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\pastetools\\filter\\image.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\pastetools\\filter\\image.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\scayt\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\scayt\\CHANGELOG.md"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\scayt\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\scayt\\LICENSE.md"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\scayt\\README.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\scayt\\README.md"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\scayt\\dialogs\\options.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\scayt\\dialogs\\options.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\table\\dialogs\\table.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\table\\dialogs\\table.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\plugins\\widget\\images\\handle.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\plugins\\widget\\images\\handle.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\css\\samples.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\css\\samples.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\img\\github-top.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\github-top.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\img\\header-bg.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\header-bg.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\img\\header-separator.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\header-separator.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\img\\logo.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\logo.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\logo.svg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\img\\navigation-tip.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\img\\navigation-tip.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\index.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\index.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\js\\sample.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\js\\sample.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\js\\sf.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\js\\sf.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\ajax.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\ajax.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\api.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\api.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\appendto.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\appendto.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\assets\\posteddata.php",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\assets\\posteddata.php"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\assets\\sample.jpg",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\assets\\sample.jpg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\datafiltering.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\datafiltering.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\dialog\\dialog.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\dialog\\dialog.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\divreplace.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\divreplace.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\enterkey\\enterkey.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\enterkey\\enterkey.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\index.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\index.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\inlineall.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\inlineall.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\inlinebycode.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\inlinebycode.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\inlinetextarea.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\inlinetextarea.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\jquery.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\jquery.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\magicline\\magicline.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\magicline\\magicline.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\readonly.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\readonly.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\replacebyclass.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\replacebyclass.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\replacebycode.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\replacebycode.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\sample.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\sample.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\sample.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\sample.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\sample_posteddata.php",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\sample_posteddata.php"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\tabindex.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\tabindex.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\toolbar\\toolbar.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\toolbar\\toolbar.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\uicolor.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\uicolor.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\uilanguages.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\uilanguages.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\old\\xhtmlstyle.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\old\\xhtmlstyle.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\index.html"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\dialog.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\dialog.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\dialog_ie.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\editor.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\editor.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\editor_gecko.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\editor_ie.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\editor_ie.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\editor_ie8.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\icons.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\icons.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\arrow.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\lock.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\lock.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\refresh.png"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\skins\\moono-lisa\\readme.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\skins\\moono-lisa\\readme.md"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\ckeditor\\vendor\\promise.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor\\vendor\\promise.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "d:\\Review-Social\\Review-Social\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ReviewSocial.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ReviewSocial.props",
+      "PackagePath": "build\\ReviewSocial.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ReviewSocial.props",
+      "PackagePath": "buildMultiTargeting\\ReviewSocial.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ReviewSocial.props",
+      "PackagePath": "buildTransitive\\ReviewSocial.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

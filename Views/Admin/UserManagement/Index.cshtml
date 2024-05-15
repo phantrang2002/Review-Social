@@ -1,0 +1,135 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_AdminLayout";
+}
+<div class="row">
+    <div class="col-md-12">
+        <div class="tile">
+            <div class="tile-body">
+
+                <div class="row element-button">
+                    <div class="col-sm-2">
+                        <button class="btn btn-add btn-sm" href="form-add-nhan-vien.html" title="Thêm" data-toggle="modal" data-target="#exampleModal">
+                            <i class="fa fa-plus"></i>
+                            Thêm người dùng mới
+                        </button>
+                    </div>
+                </div>
+                <table class="table table-hover table-bordered" cellpadding="0" cellspacing="0" border="0">
+                    <thead>
+                        <tr>
+                            <th width="10"><input type="checkbox" id="all"></th>
+                            <th>Mã người dùng</th>
+                            <th width="150">username</th>
+                            <th >Email</th> 
+                            <th width="50">Ảnh đại diện</th>
+                            <th>Ngày tham gia</th>
+                            <th>Quyền</th>
+                            <th>Trạng thái</th>
+                            <th width="100">Tính năng</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td width="10"><input type="checkbox" name="check1" value="1"></td>
+                            <td>#CD12837</td>
+                            <td>Trang Trang</td>
+                            <td>phantrang@gmail.com </td>
+                            <td><img  class="img-card-person" src="~/img/avatar.jpg" alt="avatar"></td>
+                            <td>24/04/2002</td>
+                            <td>Admin</td>
+                            <td>Bình thường</td>
+                            <td class="table-td-center">
+                                <button class="btn btn-primary btn-sm trash" type="button" title="Xóa"
+                                        onclick="myFunction(this)">
+                                    <i class="fa fa-trash"></i>
+                                </button>
+                                <button class="btn btn-primary btn-sm edit" type="button" title="Sửa" id="show-emp"
+                                        data-toggle="modal" data-target="#ModalUP">
+                                    <i class="fa fa-edit"></i>
+                                </button>
+                            </td>
+                        </tr>
+ 
+                         
+                    </tbody>
+                </table>
+            </div>
+            <nav aria-label="...">
+                <ul class="pagination justify-content-center">
+                    <li class="page-item disabled">
+                        <a class="page-link">&laquo;</a>
+                    </li>
+                    <li class="page-item" aria-current="page">
+                        <a class="page-link" href="#">1</a>
+                    </li>
+                    <li class="page-item active" >
+                        <a class="page-link" href="#">2</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="#">3</a>
+                    </li>
+                    <li class="page-item" aria-current="page">
+                        <a class="page-link" href="#">4</a>
+                    </li>
+                    <li class="page-item" aria-current="page">
+                        <a class="page-link" href="#">5</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="#">&raquo;</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+@*- Modal -->*@
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="row">
+                    <div class="form-group  col-md-12">
+                        <div class="modal-header">
+                            <h5 style="color:black">Thêm người dùng mới</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true" style="color:black; font-size: 20px">&times;</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="form-group col-md-12">
+                        <label class="control-label">Nhập email</label>
+                        <input class="form-control" type="email" id="name" placeholder="Nhập email">
+                        <small id="error" class="form-text text-danger"></small>
+                    </div>
+                    <div class="form-group col-md-12">
+                        <label class="control-label">Nhập mật khẩu</label>
+                        <input class="form-control" type="password" id="password" placeholder="Nhập mật khẩu">
+                        <small id="error" class="form-text text-danger"></small>
+                    </div>
+                    <div class="form-group col-md-12">
+                        <label class="control-label">Nhập lại mật khẩu</label>
+                        <input class="form-control" type="password" id="password" placeholder="Nhập lại mật khẩu">
+                        <small id="error" class="form-text text-danger"></small>
+                    </div>
+                    <div class="form-group col-md-12">
+                        <label class="control-label">Quyền</label>
+                        <select class="form-control">
+                            <option>User</option>
+                            <option>Admin</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" id="btnCloseModal" data-dismiss="modal">Đóng</button>
+                    <button type="button" class="btn btn-primary" onclick="createCategory()">Lưu</button>
+                </div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>

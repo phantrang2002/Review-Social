@@ -1,0 +1,182 @@
+@* @model IEnumerable<Category>
+    @{
+    ViewData["Title"] = "Search By Category";
+}
+
+<h2>Tìm kiếm theo danh mục</h2>
+
+<form asp-action="Search" asp-controller="Home" method="get">
+    <div class="form-group">
+        <label for="category">Chọn danh mục:</label>
+        <select class="form-control" id="category" name="category">
+            <option value="">-- Chọn danh mục --</option>
+            @foreach (var category in Model)
+            {
+                <option value="@category.Id">@category.Name</option>
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+</form> *@
+
+@* @model IEnumerable<Post>
+@{
+    ViewData["Title"] = "Search By Category";
+}
+
+<style>
+    .search-results {
+        max-height: 400px; /* Set the maximum height for the container */
+        overflow-y: auto; /* Enable vertical scrolling */
+        padding-right: 15px; /* Add some padding to avoid hiding scrollbar */
+    }
+
+    .search-form {
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px;
+
+    }
+
+    h2{
+        margin-bottom: 10px;
+        margin-top: 10px;
+
+    }
+
+    .search-group {
+        flex: 1; /* Để phần chọn danh mục mở rộng và chiếm hết không gian còn lại */
+        margin-right: 10px; /* Khoảng cách giữa phần chọn danh mục và nút tìm kiếm */
+    }
+
+    .search-btn {
+        margin-left: auto; /* Đẩy nút tìm kiếm sang bên phải */
+    }
+
+    .post-grid {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .post-item {
+        width: calc(30% - 10px); /* 30% width for each post with some spacing */
+        margin-bottom: 20px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+    }
+
+    .post-item h4 {
+        margin-top: 0;
+    }
+
+    .post-image {
+        margin-bottom: 10px;
+    }
+
+    .post-image img {
+        max-width: 100%;
+    }
+
+    .post-content {
+        font-size: 14px;
+    }
+</style>
+
+<h2>Tìm kiếm theo danh mục</h2>
+
+<form asp-action="SearchByCategory" asp-controller="Home" method="get" class="search-form">
+    <div class="search-group">
+        <select class="form-control" id="category" name="categoryId">
+            <option value="">-- Chọn danh mục --</option>
+            @foreach (var category in ViewBag.Categories)
+            {
+                <option value="@category.Id">@category.Name</option>
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary search-btn">Tìm kiếm</button>
+</form>
+<h3>Kết quả tìm kiếm:</h3>
+<div class="search-results">
+    @if (Model != null && Model.Any())
+    {
+        <div class="post-grid">
+            @foreach (var post in Model)
+            {
+                <div class="post-item">
+                    <h4>@post.Title</h4>
+                    <div class="post-image">
+                        <img src="@Url.Content("~")/@post.Thumbnail" alt="@post.Title">
+                    </div>
+                    <div class="post-content">
+                        @Html.Raw(@post.Content)
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <p>Không có bài viết nào được tìm thấy.</p>
+    }
+</div> *@
+
+
+<link href="~/css/site.css" rel="stylesheet">
+@model IEnumerable<Post>
+
+@{
+    ViewData["Title"] = "All Posts";
+}
+
+<h2>Tất cả các bài viết</h2>
+
+<!-- Hiển thị danh sách các bài đăng -->
+<div class="search-results">
+    @if (Model != null && Model.Any())
+    {
+        <div class="post-grid">
+            @foreach (var post in Model)
+            {
+                 <div class="post-item">
+                    <h4>@post.Title</h4>
+                    <div class="post-image">
+                        <img src="@Url.Content("~")/@post.Thumbnail" alt="@post.Title">
+                    </div>
+                    <div class="post-content">
+                        <span>ID: </span>@Html.Raw(@post.Id) <br/>
+                        <span>VerifyKey: </span>@Html.Raw(@post.verifykey) <br/>
+                        <span>User ID: </span>@Html.Raw(@post.UserId) <br/>
+                        <span>Category ID: </span>@Html.Raw(@post.CategoryId) <br/>
+                        <span>Ngày tạo: </span>@Html.Raw(@post.CreatedDate) <br/>
+                        <span>View: </span>@Html.Raw(@post.View) <br/>
+
+
+
+                        <span>Nội dung: </span>@Html.Raw(@post.Content)
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <p>Không có bài viết nào được tìm thấy.</p>
+    }
+</div>
+
+
+
+@* Kết quả đạt được:
+Về cơ bản website đã hoàn thiện về mặt hình thức và một số chức năng cần có của trang mạng xã hội review
+Đã tạo được một website hoặc ứng dụng mạng xã hội về lĩnh vực làm đẹp, cho phép người dùng đăng tải những nhận xét, và kinh nghiệm về các sản phẩm mỹ phẩm, dịch vụ spa, phẫu thuật thẩm mỹ, hay các biện pháp chăm sóc sắc đẹp khác.
+Đã có công cụ tìm kiếm và phân loại thông minh để người dùng dễ dàng tìm kiếm thông tin về sản phẩm và dịch vụ làm đẹp dựa trên nhu cầu và mong muốn của họ.
+Giao diện dễ sử dụng, dễ dàng quản lý, thân thiện với người dùng
+Kết quả chưa đạt được:
+Chưa làm hết chức năng như mong đợi, chưa làm được bình luận chia sẻ ý kiến, hệ thống chưa hoàn thiện
+Chưa xử lý hình ảnh tốt, có một số hình ảnh sản phẩm không hiển thị đúng cách và thời gian tải trang khá chậm, gây khó chịu cho người dùng.
+Các chức năng chưa tối ưu, vẫn mắc lỗi tiềm ẩn
+Các yêu cầu phi chức năng chưa được đảm bảo như: mật khẩu chưa được mã hóa, hiệu suất và tính ổn định chưa được thực hiện
+ *@
